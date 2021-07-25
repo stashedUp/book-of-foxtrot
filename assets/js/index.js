@@ -2,9 +2,9 @@
 var stripe = Stripe("pk_live_51J5gCBE6l9W8YrrlfPSKUM88YsrNfJM6jVSH8u8hSTqo8hKdtRvl0we9o2ZXKHGZbyvZ0Fu0ownaaUE7bnvg27bq00JbuE5L5x");
 //var stripe = Stripe("pk_test_GhuLqvF7bjM8KDm0OdmqeZTp");
 var backEndUrl = 'https://stripe.downloadpdf.org';
-var domain = '<PRODUCT_LOWER>.downloadpdf.org'
+var domain = 'daily-priority-matrix.downloadpdf.org'
 //var domain = 'localhost:8080'
-var priceID = '<PRICE_ID>'
+var priceID = 'price_1JHErFE6l9W8YrrlcVwjKVOv'
 //var priceID = 'price_1J4bTLIqc7Y0dKXeXwelWs83'
 
 // When the form is submitted...

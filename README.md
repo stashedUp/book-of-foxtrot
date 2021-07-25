@@ -1,2 +1,2 @@
-# book-of-<A_VERSION>
-* The <PRODUCT>
+# book-of-foxtrot
+* The Daily Priority Matrix

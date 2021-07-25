@@ -1,5 +1,5 @@
 const textarea = document.querySelector("textarea");
-var product_id = "<PRODUCT_LOWER>"
+var product_id = "daily-priority-matrix"
 textarea.addEventListener("input", event => {
     const target = event.currentTarget;
     const maxLength = target.getAttribute("maxlength");
