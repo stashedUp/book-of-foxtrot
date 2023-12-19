@@ -1,7 +1,7 @@
 
 var stripe = Stripe("pk_live_51J5gCBE6l9W8YrrlfPSKUM88YsrNfJM6jVSH8u8hSTqo8hKdtRvl0we9o2ZXKHGZbyvZ0Fu0ownaaUE7bnvg27bq00JbuE5L5x");
 //var stripe = Stripe("pk_test_GhuLqvF7bjM8KDm0OdmqeZTp");
-var backEndUrl = 'https://e4pekaawm2.execute-api.us-east-1.amazonaws.com/';
+var backEndUrl = 'https://stripe.warrensbox.com';
 var domain = 'daily-priority-matrix.warrensbox.com'
 //var domain = 'localhost:8080'
 var priceID = 'price_1JHErFE6l9W8YrrlcVwjKVOv'
